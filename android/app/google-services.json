@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150905474425",
+    "project_id": "dayoff-project",
+    "storage_bucket": "dayoff-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150905474425:android:c06e3d7bb4b792fdacf3a8",
+        "android_client_info": {
+          "package_name": "com.project.dayoff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150905474425-2mo6jbgcmpaal6r0jv5elrg1j6g1rlu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDhPHLvy3uLDDX5jJlZXyGMdGqpESkKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150905474425-2mo6jbgcmpaal6r0jv5elrg1j6g1rlu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
